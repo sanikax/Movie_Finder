@@ -18,7 +18,7 @@ A responsive web application that allows users to search and discover movies ins
 
 ## Live Demo
 
-[View the Project](https://sanikax.github.io/Movie_Finder)
+[View the Project](https://sanikax.github.io/Movie_Finder/)
 
 ## How to Use
 
